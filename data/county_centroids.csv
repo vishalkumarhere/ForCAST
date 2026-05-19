@@ -1,0 +1,215 @@
+state,county,latitude,longitude
+Alabama,Bibb,32.971079,-87.1227088
+Alabama,Jackson,34.7692447,-85.9867941
+Alabama,Jefferson,33.5228184,-86.9164513
+Alabama,Shelby,33.2503347,-86.6639746
+Alabama,Tuscaloosa,33.2668398,-87.4862182
+Alabama,Walker,33.7804491,-87.2767248
+Arkansas,Calhoun,33.5556787,-92.5143633
+Arkansas,Desha,33.7740219,-91.3110517
+California,Amador,38.449089,-120.5911018
+California,Butte,39.6519275,-121.5858444
+California,Calaveras,38.2558181,-120.4981492
+California,Coastal Mendocino,38.9347122,-123.7200979
+California,Comptche,39.2646659,-123.591951
+California,Del Norte,41.7261767,-123.91328
+California,El Dorado,38.7574137,-120.5276129
+California,Humboldt,40.5997415,-123.8997734
+California,In Butte,39.6432142,-121.40339
+California,In Nevada,39.3561824,-120.4191036
+California,In Trinity,40.038918,-123.0012963
+California,In Tuolumne,37.9755279,-120.3434648
+California,Jackson,38.3515278,-120.7693285
+California,Lassen,40.7685579,-120.730998
+California,Mendocino,39.3176491,-123.4126399
+California,Modoc,41.5450487,-120.7435998
+California,Monte Rio,38.4739532,-123.0244982
+California,Napa,38.4898675,-122.3218414
+California,Nevada,39.3540335,-120.8089843
+California,Northern Sonoma,38.5176385,-122.9737704
+California,Placer,39.1012064,-120.7650606
+California,Plumas,39.9430988,-120.8059521
+California,San Mateo,37.496904,-122.3330573
+California,Santa Cruz,37.050096,-121.99059
+California,Shasta,40.7965121,-121.9979194
+California,Sierra,39.5849065,-120.5305731
+California,Siskiyou,41.6862466,-122.5360121
+California,Sonoma,38.5110803,-122.8473388
+California,Southern Mendocino,38.9467254,-123.0915131
+California,Tehama,40.1251334,-122.2015529
+California,Trinity,40.6053256,-123.171268
+California,Tuolumne,38.056944,-119.9919351
+California,Western Mendocino,39.2152417,-123.2043821
+California,Yuba,39.2839755,-121.3556818
+Florida,Dixie,29.6214008,-83.17351
+Florida,Glades,26.9328123,-81.1895983
+Florida,Hillsborough,27.9184543,-82.3488057
+Florida,Levy,29.3008632,-82.7824592
+Kentucky,Bell,36.7370344,-83.6491695
+Kentucky,Breathitt,37.5248869,-83.2943551
+Kentucky,Carter,38.3199171,-83.0039034
+Kentucky,Elliott,38.1178636,-83.0656398
+Kentucky,Greenup,38.5108112,-82.9180186
+Kentucky,Harlan,36.8411336,-83.22678
+Kentucky,Highsplint,36.8948126,-83.1171143
+Kentucky,Knox,36.8934427,-83.8545725
+Kentucky,Lee,37.6001442,-83.7073043
+Kentucky,Leslie,37.082981,-83.3750732
+Kentucky,Lewis,38.5192128,-83.3400338
+Kentucky,Madison,37.7298081,-84.2974735
+Kentucky,Martin,37.8022242,-82.5077178
+Maine,Aroostook,46.6847962,-68.4701132
+Maine,Coos,44.7202225,-70.6322367
+Maine,Cumberland,43.8506432,-70.4001498
+Maine,Franklin,44.916814,-70.4395797
+Maine,Hancock,44.7135397,-68.2994753
+Maine,Kennebec,44.4184616,-69.8250659
+Maine,Kibby,45.418739,-70.544355
+Maine,Lincoln,44.1137571,-69.5351337
+Maine,Maine,43.6883534,-70.2463169
+Maine,Oxford,44.4694529,-70.7782375
+Maine,Penobscot,45.2930166,-68.5957766
+Maine,Piscataquis,45.8358193,-69.2923096
+Maine,Somerset,45.4538403,-70.0997288
+Maine,Waldo,44.4870161,-69.1365185
+Maine,Washington,44.9744397,-67.6287553
+Massachusetts,Berkshire,42.3999954,-73.2322639
+Massachusetts,Franklin,42.5896205,-72.6110645
+Massachusetts,Hampden,42.1285315,-72.6063441
+Massachusetts,Hampshire,42.3432499,-72.6213339
+Massachusetts,Tolland,42.0815253,-73.0123093
+Massachusetts,Worcester,42.3705781,-71.8677242
+Michigan,Antrim,44.9947369,-85.1133189
+Michigan,Baraga,46.6354348,-88.3876368
+Michigan,Charlevoix,45.202075,-84.9676387
+Michigan,Cheboygan,45.4417481,-84.4768486
+Michigan,Emmet,45.5064041,-84.8567966
+Michigan,Houghton,46.8591287,-88.7774734
+Michigan,Keweenaw,47.3876058,-88.0742387
+Michigan,Lake,43.9699997,-85.7884997
+Michigan,Luce,46.4824144,-85.5556156
+Michigan,Mackinac,46.085237,-85.0336698
+Michigan,Marquette,46.4481521,-87.6305899
+Michigan,Montmorency,45.0192008,-84.1322903
+Michigan,Ontonagon,46.6471877,-89.3293792
+Michigan,Otsego,45.0244123,-84.6136788
+Michigan,Richland,42.3761504,-85.4550054
+Michigan,St. Louis,46.7813734,-92.1040356
+Mississippi,Forrest,31.1540772,-89.2398601
+Mississippi,Perry,31.153317,-88.9830577
+Missouri,Ozark,36.6467816,-92.4575198
+Montana,Cascade,47.3271465,-111.3281242
+Montana,Clark,47.2117026,-112.4768049
+Montana,Flathead,48.3840879,-113.972144
+Montana,Lewis,47.2117026,-112.4768049
+Montana,Meagher,46.6305891,-110.8988278
+Montana,Missoula,46.9653891,-113.9232612
+Montana,Powell,46.9109569,-113.0294193
+Montana,Sanders,47.6801812,-115.1769538
+New Hampshire,Belknap,43.5218848,-71.4530581
+New Hampshire,Carroll,43.8778199,-71.2740836
+New Hampshire,Coos,44.698627,-71.3768039
+New Hampshire,Grafton,43.9702453,-71.8742626
+New Hampshire,Merrimack,43.3260376,-71.6854725
+New Hampshire,Strafford,43.3312505,-71.0399927
+New Mexico,Otero,32.5059533,-105.8063662
+New York,Caledonia,42.9731366,-77.8530049
+New York,Franklin,44.5599139,-74.3273735
+New York,Hamilton,43.6307863,-74.4659275
+New York,Herkimer,43.4911326,-74.9481252
+New York,Lewis,43.7344277,-75.440289
+New York,Oneida,43.2144051,-75.4039155
+New York,St. Lawrence,44.4973591,-75.0657043
+New York,Windham,42.3071735,-74.2513425
+New York,Windsor,41.4743072,-74.0176697
+Ohio,Adams,38.8398935,-83.5051704
+Ohio,Brown,38.9092542,-83.8836555
+Ohio,Highland,39.1802516,-83.6304344
+Ohio,Pike,39.1056387,-83.0611404
+Ohio,Scioto,38.823448,-83.017141
+Oregon,Crook,44.1460291,-120.3839476
+Oregon,Deschutes,43.8194838,-121.1669662
+Oregon,Grant,44.464824,-119.0565278
+Oregon,Hood River,45.5311636,-121.6475587
+Oregon,Klamath,42.6052565,-121.739544
+Oregon,Lake,42.7702847,-120.4528326
+Oregon,Wheeler,44.6768382,-120.0484375
+Pennsylvania,Clinton,41.2711458,-77.6984481
+Pennsylvania,Schuylkill,40.6936632,-76.2277971
+South Carolina,Berkeley,33.1595951,-79.9070461
+South Carolina,Dorchester,33.0756291,-80.3431133
+South Carolina,Greenville,34.8550021,-82.3356457
+South Carolina,Hampton,32.7861789,-81.1237271
+South Carolina,Jasper,32.4048602,-81.0414726
+South Carolina,Oconee,34.7622221,-83.1099645
+South Carolina,Orangeburg,33.4054944,-80.778429
+South Carolina,Pickens,34.8882592,-82.7193824
+South Carolina,Screven,33.3661081,-79.280953
+Tennessee,Anderson,36.1063226,-84.1849939
+Tennessee,Bell,36.0484489,-86.6451283
+Tennessee,Campbell,36.3865389,-84.1351617
+Tennessee,Claiborne,36.4673161,-83.6786377
+Tennessee,Fentress,36.3572145,-84.9266843
+Tennessee,Johnson,36.443004,-81.8434683
+Tennessee,Knox,35.9859998,-83.9375598
+Tennessee,Lewis,35.5291497,-87.4950257
+Tennessee,Morgan,36.1372409,-84.629496
+Tennessee,Overton,36.3396292,-85.286641
+Tennessee,Perry,35.6337989,-87.8498777
+Tennessee,Roane,35.84857,-84.5225522
+Tennessee,Scott,36.4380433,-84.5095507
+Tennessee,White,35.9245897,-85.4630947
+Tennessee,Whitley,36.5329761,-85.8394745
+Texas,Montgomery,30.301949,-95.5065944
+Texas,Newton,30.8118989,-93.740504
+Vermont,Caledonia,44.4638331,-72.1083609
+Vermont,Coos,44.2101465,-72.5516014
+Vermont,Essex,44.6808521,-71.735233
+Vermont,Franklin,44.8250651,-72.8743619
+Vermont,Lamoille,44.6090486,-72.6714363
+Vermont,Orleans,44.8680836,-72.2595811
+Vermont,Vermont,44.9351831,-72.2102941
+Vermont,Washington,44.2690924,-72.6146505
+Virginia,Bath,38.0557256,-79.7350017
+Virginia,Buchanan,37.2600448,-82.0320334
+Virginia,Buchannan,39.0835175,-78.197497
+Virginia,Dickenson,37.1226368,-82.359691
+Virginia,McDowell,37.3660757,-81.6478197
+Virginia,Russell,36.9251814,-82.1147841
+Virginia,Tazewell,37.1236041,-81.5684129
+Virginia,Washington,36.740236,-81.9421666
+Virginia,Wise,37.0170633,-82.6103804
+Washington,Clallam,47.9998383,-123.7373472
+Washington,Columbia,46.2947665,-117.9174697
+Washington,Jefferson,47.7325289,-123.6328565
+Washington,Klickitat,45.8767731,-120.7976033
+Washington,Olympic Peninsula - Clallam,48.0830573,-123.0832457
+Washington,Pacific,46.5334929,-123.768029
+Washington,Pierce,47.0022547,-122.2117983
+Washington,Skamania,45.966211,-121.9278867
+Washington,Stevens,48.4249969,-117.8489411
+Washington,Yakima,46.4135961,-120.730253
+West Virginia,Boone,37.9970331,-81.7143949
+West Virginia,Braxton,38.699643,-80.7012614
+West Virginia,Burnsville,38.8580713,-80.6600317
+West Virginia,Hardy,39.0040008,-78.8441276
+West Virginia,Lincoln,38.1570776,-82.0671435
+West Virginia,Logan,37.8024603,-81.9284776
+West Virginia,McDowell,37.3660757,-81.6478197
+West Virginia,Mingo,37.679051,-82.1317065
+West Virginia,Pike,39.2834114,-81.0814999
+West Virginia,Raleigh,37.7493481,-81.2250929
+West Virginia,Wayne,38.1270685,-82.4289201
+West Virginia,West Virginia,39.6728444,-79.4968554
+West Virginia,Wyoming,37.5969073,-81.5364932
+Wisconsin,Ashland,46.2062319,-90.6802594
+Wisconsin,Bayfield,46.4710241,-91.1983175
+Wisconsin,Burnett,45.8652437,-92.2673161
+Wisconsin,Florence,45.8379973,-88.3902943
+Wisconsin,Forest,45.625108,-88.806738
+Wisconsin,Iron,46.2254778,-90.2125304
+Wisconsin,Jackson,44.3016847,-90.8085198
+Wisconsin,Lincoln,45.3265631,-89.7326216
+Wisconsin,Oneida,45.6879163,-89.4779558
+Wisconsin,Rusk,45.4589749,-91.1240967
+Wisconsin,Washburn,45.8926321,-91.7971652
